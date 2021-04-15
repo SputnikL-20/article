@@ -1,0 +1,880 @@
+[22-Mar-2021 21:03:16 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/shtucer): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:03:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:03:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:03:37 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/schitok-tormoznogo-diska): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:03:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:03:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:03:58 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/kreplenie-torsiona): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:03:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:03:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:04:19 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/torsion): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:04:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:04:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:04:40 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/shtift): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:04:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:04:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:05:01 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/aktuator): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:05:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:05:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:05:23 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/aktuator-transmissii): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:05:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:05:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:05:44 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/datchik-abs): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:05:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:05:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:06:05 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/datchik-vysoty-dorozhnogo-prosveta): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:06:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:06:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:06:26 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/datchik-davleniya-vozduha-v-kolese): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:06:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:06:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:06:47 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/datchik-korobki-peredach): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:06:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:06:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:07:08 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/corolla/716/datchik-skorosti): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 159
+[22-Mar-2021 21:07:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[22-Mar-2021 21:07:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 160
+[24-Mar-2021 04:52:53 UTC] PHP Notice:  Undefined variable: i in C:\Server\article\choice_article.php on line 29
+[24-Mar-2021 04:52:53 UTC] PHP Notice:  String offset cast occurred in C:\Server\article\choice_article.php on line 29
+[24-Mar-2021 05:29:17 UTC] PHP Warning:  file_put_contents(./tmp/o/tmp_corolla-usa_article.json): failed to open stream: No such file or directory in C:\Server\article\choice_article.php on line 77
+[24-Mar-2021 06:43:58 UTC] PHP Warning:  file_put_contents(./tmp/o/tmp_corolla-verso_article.json): failed to open stream: No such file or directory in C:\Server\article\choice_article.php on line 77
+[24-Mar-2021 06:50:57 UTC] PHP Notice:  Undefined variable: i in C:\Server\article\choice_article.php on line 29
+[24-Mar-2021 06:50:57 UTC] PHP Notice:  String offset cast occurred in C:\Server\article\choice_article.php on line 29
+[25-Mar-2021 04:28:38 UTC] PHP Warning:  file_put_contents(C:\Server\article/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 59
+[25-Mar-2021 15:03:45 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/termostat): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:03:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:03:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:04:06 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/klapan-egr): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:04:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:04:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:04:27 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/klapan-tnvd): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:04:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:04:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:04:48 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/korpus-tnvd): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:04:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:04:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:05:09 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/plunzher): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:05:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:05:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:05:30 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/remkomplekt-tnvd): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:05:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:05:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:05:51 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/korpus-toplivnogo-filtra): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:05:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:05:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:06:12 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/nasos-podkachki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:06:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:06:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:06:34 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/aktuator-turbiny): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:06:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:06:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:06:55 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/kartridzh-turbiny): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:06:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:06:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:07:16 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/radiator-interkulera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:07:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:07:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:07:37 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/turbina): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:07:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:07:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:07:58 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/gofra-vozdushnogo-filtra): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:07:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:07:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:08:19 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/korpus-vozdushnogo-filtra): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:08:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:08:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:08:40 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/filtr-vozdushnyy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:08:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:08:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:09:01 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/korpus-maslyanogo-filtra): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:09:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:09:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:09:22 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/radiator-maslyanyy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:09:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:09:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:09:43 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/filtr-maslyanyy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:09:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:09:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:10:04 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/absorber-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:10:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:10:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:10:25 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/bamper-zadniy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:10:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:10:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:10:46 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/bamper-peredniy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:10:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:10:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:11:07 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/zaglushka): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:11:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:11:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:11:28 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/zaglushka-pod-kryuk): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:11:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:11:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:11:49 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/zaschita-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:11:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:11:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:12:10 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/klyk-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:12:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:12:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:12:31 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/kreplenie-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:12:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:12:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:12:52 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/kronshteyn-usilitelya-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:12:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:12:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:13:13 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/molding-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:13:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:13:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:13:34 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/nakladka-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:13:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:13:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:13:55 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/reshetka-v-bamper): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:13:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:13:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:14:16 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/spoyler-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:14:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:14:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:14:37 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/usilitel-bampera): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:14:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:14:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:14:58 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/dver-zadnyaya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:14:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:14:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:15:19 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/dver-perednyaya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:15:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:15:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:15:40 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/obshivka-dveri): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:15:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:15:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:16:01 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/petlya-dveri): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:16:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:16:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:16:22 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/rolik-otkatnoy-dveri): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:16:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:16:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:16:43 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/ruchka-dveri): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:16:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:16:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:17:04 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/steklopodemnik): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:17:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:17:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:17:25 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/tros-dveri): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:17:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:17:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:17:46 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/detali-salona-prochee): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:17:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:17:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:18:07 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/kozyrek-solncezaschitnyy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:18:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:18:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:18:28 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/kryshka-air-bag): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:18:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:18:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:18:49 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/panel-priborov): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:18:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:18:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:19:10 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/podstavka-pod-nogu): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:19:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:19:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:19:31 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/remen-bezopastnosti): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:19:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:19:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:19:52 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/dyna/4351/lebedka): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 169
+[25-Mar-2021 15:19:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[25-Mar-2021 15:19:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[26-Mar-2021 01:31:24 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/fortuner/430/datchik-temperatury): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 66
+[29-Mar-2021 05:08:28 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/hiace/254/bolt-kolesa): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 66
+[29-Mar-2021 05:08:30 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/hiace/254/gayka-kolesnaya): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 169
+[29-Mar-2021 05:08:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:31 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/hiace/254/disk-kolesnyy): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 169
+[29-Mar-2021 05:08:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:33 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/hiace/254/kolpak-diska): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 169
+[29-Mar-2021 05:08:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:34 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/hiace/254/shpilka-kolesa): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 169
+[29-Mar-2021 05:08:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:36 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/hiace/254/podushka-ramy): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 169
+[29-Mar-2021 05:08:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:37 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/hiace/254/podushka-ramy-komplekt): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 169
+[29-Mar-2021 05:08:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[29-Mar-2021 05:08:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 170
+[30-Mar-2021 08:41:56 UTC] PHP Warning:  file_put_contents(C:\Server\article/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 57
+[31-Mar-2021 18:54:46 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/origin/7/klipsa): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[31-Mar-2021 18:56:58 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/lampa): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 18:56:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 18:56:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 18:59:57 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/origin/7/korpus-salonnogo-filtra): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[31-Mar-2021 19:00:58 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/filtr-salonnyy): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:00:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:00:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:02:10 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/filtr-akpp): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:02:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:02:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:03:56 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/remkomplekt-gur): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:03:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:03:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:05:09 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/bolt): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:05:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:05:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:06:11 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/gayka): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:06:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:06:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:07:12 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/stopor): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:07:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:07:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:08:12 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/shayba): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:08:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:08:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:09:15 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/gayka-kolesnaya): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:09:15 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:09:15 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:10:38 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/shpilka): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:10:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:10:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:11:49 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/podshipnik): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:11:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:11:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:13:11 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/vtulka-hvostovika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:13:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:13:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:14:25 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/origin/7/podshipnik-hvostovika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[31-Mar-2021 19:15:41 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/origin/7/otboynik): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[31-Mar-2021 19:16:56 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/origin/7/vtulka-rulevoy-reyki): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[31-Mar-2021 19:18:16 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/remkomplekt-rulevoy-reyki): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:18:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:18:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:19:28 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/bolt-ekscentrika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:19:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:19:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:20:30 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/gayka-ekscentrika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:20:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:20:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:21:42 UTC] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/origin/7/shayba-ekscentrika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[31-Mar-2021 19:22:54 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/vtulka-stabilizatora): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:22:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:22:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:24:06 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/pruzhina-stoyanochnogo-tormoza): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:24:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:24:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:25:16 UTC] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/origin/7/podshipnik-peredney-stupicy): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[31-Mar-2021 19:25:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[31-Mar-2021 19:25:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 09:48:08 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sai/95/val-koromysel): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[05-Apr-2021 09:48:08 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 09:48:08 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 10:22:58 Asia/Vladivostok] PHP Warning:  file_put_contents(C:\Server\article/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 57
+[05-Apr-2021 12:33:03 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sequoia/100/shpilka-kolesa): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 61
+[05-Apr-2021 12:33:05 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sequoia/100/podushka-ramy): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[05-Apr-2021 12:33:05 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:05 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:06 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sequoia/100/podushka-ramy-komplekt): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[05-Apr-2021 12:33:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:07 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sequoia/100/val-povorotnogo-kulaka): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[05-Apr-2021 12:33:07 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:07 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:09 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sequoia/100/vtulka-zapornaya): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[05-Apr-2021 12:33:09 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:09 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:10 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sequoia/100/vtulka-povorotnogo-kulaka): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[05-Apr-2021 12:33:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[05-Apr-2021 12:33:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:08:00 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/diffuzor): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:08:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:08:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:09:08 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/kryshka-radiatora): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:09:08 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:09:08 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:10:10 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/patrubok-radiatora): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:10:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:10:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:11:14 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/prokladka-termostata): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:12:14 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/radiator): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:12:14 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:12:14 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:13:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/termostat): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:13:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:13:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:14:42 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/filtr-vozdushnyy): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:14:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:14:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:16:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/usilitel-bampera): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:16:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:16:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:18:11 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/zerkalo): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:18:11 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:18:11 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:19:30 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/petlya-kapota): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:19:30 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:19:30 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:20:39 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/klipsa): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:22:05 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/bryzgovik): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:22:05 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:22:05 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:23:57 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/lampa): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:23:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:23:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:25:18 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/fara): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:26:19 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/fara-protivotumannaya): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:26:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:26:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:27:57 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/podkrylok): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:27:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:27:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:29:22 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/steklo-bokovoe-opusknoe): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:29:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:29:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:30:22 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/steklo-zadnee): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:30:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:30:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:31:23 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/steklo-kuzova-bokovoe-ne-opusknoe): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:31:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:31:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:33:23 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/opora-zadney-stoyki): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:33:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:33:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:34:25 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/opora-peredney-stoyki): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:34:25 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:34:25 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:35:32 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/pruzhina-podveski): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:35:32 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:35:32 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:36:37 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/pylnik-stoyki): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:37:39 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/stoyka-zadnyaya): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:37:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:37:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:38:40 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/stoyka-perednyaya): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:38:40 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:38:40 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:40:06 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/shlang-gur): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:40:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:40:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:41:14 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/podvesnoy-podshipnik): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:41:14 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:41:14 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:42:19 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/bolt): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:43:21 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/gayka): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:43:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:43:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:44:22 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/stopor): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:44:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:44:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:45:22 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/shayba): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:45:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:45:22 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:47:29 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/pylnik-shrusa): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:47:29 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:47:29 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:48:31 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/shrus): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:48:31 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:48:31 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:49:42 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/vtulka-hvostovika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:50:50 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/opora-reduktora): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:50:50 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:50:50 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:52:21 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/vtulka-rulevoy-reyki): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:52:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:52:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:53:23 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/kardan-rulevoy): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:53:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:53:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:54:39 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/krestovina-rulevogo-kardana): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:55:48 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/pylnik-rulevoy-reyki): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:56:55 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/rulevaya-tyaga): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:58:16 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/bolt-ekscentrika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 02:59:19 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/gayka-ekscentrika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 02:59:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 02:59:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:00:21 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/rychag-podveski): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 03:00:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:00:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:01:26 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/saylentblok): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 03:02:28 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/sharovaya-opora): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 03:02:28 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:02:28 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:03:35 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/vtulka-linka): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 03:03:35 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:03:35 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:04:40 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/vtulka-stabilizatora): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 03:05:42 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/219/link): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 03:05:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:05:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:56:34 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-carib/221/vtulka-linka): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 03:56:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 03:56:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 04:42:44 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-marino/225/krestovina-rulevogo-kardana): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 04:42:44 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 04:42:44 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 04:46:36 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/sprinter-marino/225/baraban-tormoznoy): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[06-Apr-2021 04:47:56 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/sprinter-marino/225/kolodki-tormoznye): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[06-Apr-2021 04:47:56 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 04:47:56 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[06-Apr-2021 08:12:22 Asia/Vladivostok] PHP Warning:  file_put_contents(C:\Server\article/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 57
+[07-Apr-2021 10:58:28 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/toyota/vista/161/podsvetka-nomernogo-znaka): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[07-Apr-2021 10:58:28 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[07-Apr-2021 10:58:28 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[08-Apr-2021 04:10:24 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota/wish/147/koncevik): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 61
+[08-Apr-2021 12:16:05 Asia/Vladivostok] PHP Warning:  file_put_contents(C:\Server\article/src/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 57
+[08-Apr-2021 14:48:48 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/ad/1112/schetochnyy-uzel): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\Server\article\choice_article.php on line 61
+[09-Apr-2021 01:04:56 Asia/Vladivostok] PHP Warning:  get_headers(): SSL: Удаленный хост принудительно разорвал существующее подключение.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:04:56 Asia/Vladivostok] PHP Notice:  get_headers(): send of 94 bytes failed with errno=10054 Удаленный хост принудительно разорвал существующее подключение.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:04:56 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/gbc): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:04:56 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:04:56 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:05:17 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/datchik-vvt-i): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:05:17 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:05:17 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:05:38 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/kryshka-dvigatelya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:05:38 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:05:38 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:05:59 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/kryshka-klapanov): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:05:59 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:05:59 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:06:20 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/kryshka-maslozalivnoy-gorloviny): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:06:20 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:06:20 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:06:41 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/napravlyayuschaya-klapana): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:06:41 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:06:41 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:07:02 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/prokladka-gbc): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:07:02 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:07:02 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:07:23 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/detali-dvigatelya-prochee): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:07:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:07:23 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:07:44 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/katushka-zazhiganiya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:07:44 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:07:44 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:08:05 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/nakonechnik-katushki-zazhiganiya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:08:05 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:08:05 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:08:26 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/predpuskovoy-podogrevatel): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:08:26 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:08:26 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:08:47 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/provoda-vysokovoltnye): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:08:47 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:08:47 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:09:08 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/svecha-zazhiganiya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:09:08 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:09:08 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:09:29 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/svecha-nakala): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:09:29 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:09:29 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:09:50 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/venec-mahovika): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:09:50 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:09:50 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:10:11 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/auster/5120/vkladyshi): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:10:11 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:10:11 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:43:33 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/avenir/1124/gayka-kolesnaya): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:43:33 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:43:33 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:43:54 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/avenir/1124/disk-kolesnyy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:43:54 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:43:54 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:44:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/avenir/1124/kolpak-diska): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:44:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:44:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:44:36 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/avenir/1124/shpilka-kolesa): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 01:44:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 01:44:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:28:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/remen-privodnoy): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:28:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:28:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:28:36 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/rolik): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:28:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:28:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:28:57 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/rolik-privodnogo-remnya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:28:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:28:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:29:18 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/kolco-glushitelya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:29:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:29:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:29:39 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/kolco-uplotnitelnoe): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:29:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:29:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:30:00 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:30:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:30:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:30:21 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-vpusknogo-kollektora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:30:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:30:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:30:42 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-vypusknogo-kollektora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:30:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:30:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:31:03 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-datchika-holostogo-hoda): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:31:03 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:31:03 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:31:24 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-drosselnoy-zaslonki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:31:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:31:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:31:45 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-klapana-egr): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:31:45 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:31:45 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:32:06 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-klapannoy-kryshki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:32:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:32:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:32:27 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-kryshki-grm): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:32:27 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:32:27 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:32:48 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-maslonasosa): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:32:48 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:32:48 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:33:09 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-poddona): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:33:09 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:33:09 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:33:30 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-pompy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:33:30 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:33:30 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:33:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-toplivnoy-forsunki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:33:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:33:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:34:12 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-turbiny): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:34:12 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:34:12 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:34:33 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/prokladka-kolco): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:34:33 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:34:33 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:34:54 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/salnik): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:34:54 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:34:54 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:35:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/salnik-kolenvala-zadniy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:35:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:35:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:35:36 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/salnik-kolenvala-peredniy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:35:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:35:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:35:57 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/salnik-raspredvala): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:35:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:35:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:36:18 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/salnik-svechnyh-kolodcev): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:36:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:36:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:36:39 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/shayba-forsunki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:36:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:36:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:37:00 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/datchik-toplivnogo-filtra): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:37:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:37:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:37:21 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/datchik-toplivnoy-reyki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:37:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:37:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:37:42 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/drosselnaya-zaslonka): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:37:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:37:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:38:03 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/karbyurator): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:38:03 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:38:03 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:38:24 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/raspylitel-forsunki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:38:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:38:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:38:45 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/regulyator-davleniya-topliva): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:38:45 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:38:45 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:39:07 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/remkomplekt-forsunki): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:39:07 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:39:07 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:39:28 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/toplivnaya-trubka): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:39:28 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:39:28 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:39:49 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/toplivnaya-forsunka): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:39:49 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:39:49 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:40:10 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/toplivnyy-nasos): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:40:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:40:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:40:31 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/tros-gaza): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:40:31 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:40:31 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:40:52 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/filtr-toplivnogo-nasosa): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:40:52 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:40:52 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:41:13 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/filtr-toplivnyy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:41:13 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:41:13 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:41:34 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/forsunka-toplivnaya-benzin): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:41:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:41:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:41:55 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/forsunka-toplivnaya-dizel): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:41:55 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:41:55 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:42:16 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/forsunka-holodnogo-puska): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:42:16 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:42:16 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:42:37 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/bachok-radiatora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:42:37 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:42:37 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:42:58 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/bachok-rasshiritelnyy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:42:58 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:42:58 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:43:19 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bassara/1127/vtulka-krepleniya-radiatora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 03:43:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 03:43:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 04:22:42 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bluebird/1135/vkladyshi): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 04:22:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 04:22:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 04:43:16 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/bluebird/1135/motor-trapecii-stekloochistitelya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 61
+[09-Apr-2021 04:43:37 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bluebird/1135/nasos-omyvatelya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 04:43:37 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 04:43:37 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 04:43:58 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/bluebird/1135/omyvatel-fary): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[09-Apr-2021 04:43:58 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[09-Apr-2021 04:43:58 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:17:53 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/cube/1179/sharovaya-opora): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[13-Apr-2021 11:18:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/ekscentrik): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:18:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:18:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:18:36 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/radiator-akpp): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:18:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:18:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:18:57 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/radiator-variatora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:18:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:18:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:19:18 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/vtulka-linka): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:19:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:19:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:19:39 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/vtulka-reaktivnoy-tyagi): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:19:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:19:39 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:20:00 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/vtulka-stabilizatora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:20:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:20:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:20:21 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/kreplenie-stabilizatora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:20:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:20:21 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:20:42 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/link): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:20:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:20:42 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:21:03 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/skoba-vtulki-stabilizatora): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:21:03 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:21:03 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:21:24 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/stabilizator): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:21:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:21:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:21:45 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/kolodki-ruchnika): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:21:45 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:21:45 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:22:06 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/pruzhina-stoyanochnogo-tormoza): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:22:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:22:06 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:22:27 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/remkomplekt-stoyanochnogo-tormoza): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:22:27 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:22:27 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:22:48 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/tros-ruchnogo-tormoza): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:22:48 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:22:48 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:23:09 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/gayka-stupicy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:23:09 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:23:09 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:23:30 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/kryshka-stupicy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:23:30 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:23:30 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:23:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/podshipnik-zadney-stupicy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:23:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:23:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:24:12 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/podshipnik-peredney-stupicy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:24:12 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:24:12 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:24:33 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/polustupica): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:24:33 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:24:33 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:24:54 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/salnik-stupicy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:24:54 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:24:54 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:25:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/stupica): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:25:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:25:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:25:36 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/stupichnyy-uzel): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:25:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:25:36 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:25:57 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/flanec): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:25:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:25:57 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:26:18 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1179/shayba-stupicy): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 11:26:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 11:26:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 12:08:10 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1180/pereklyuchatel-podrulevoy): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 12:08:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 12:08:10 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 12:56:59 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/cube/1177/remkomplekt): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[13-Apr-2021 13:24:05 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/cube/1177/aktuator): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[13-Apr-2021 13:25:34 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube/1177/tyaga-datchika-dorozhnogo-prosveta): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 13:25:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 13:25:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 14:18:43 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/cube-cubic/1183/rasshiritel-kryla): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 61
+[13-Apr-2021 14:26:34 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/cube-cubic/1183/komplekt-pylnika): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 14:26:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 14:26:34 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 16:11:41 Asia/Vladivostok] PHP Warning:  file_put_contents(C:\Server\article/src/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 57
+[13-Apr-2021 16:32:53 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/datsun/1186/obshivka-kapota): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
+[13-Apr-2021 16:32:53 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[13-Apr-2021 16:32:53 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
