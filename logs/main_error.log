@@ -878,3 +878,7 @@
 [13-Apr-2021 16:32:53 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/datsun/1186/obshivka-kapota): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 161
 [13-Apr-2021 16:32:53 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
 [13-Apr-2021 16:32:53 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[16-Apr-2021 11:16:17 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/fairlady-z/849/molding-prochee): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\choice_article.php on line 161
+[16-Apr-2021 11:16:17 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[16-Apr-2021 11:16:17 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
