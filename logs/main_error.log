@@ -882,3 +882,389 @@
  in C:\Server\article\choice_article.php on line 161
 [16-Apr-2021 11:16:17 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
 [16-Apr-2021 11:16:17 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[19-Apr-2021 14:48:18 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:19 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:19 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/honda): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:20 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/mitsubishi): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:21 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/mazda): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:22 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/subaru): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:22 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/hyundai): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:23 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/ford): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:24 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/volkswagen): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:25 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/bmw): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:25 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/kia): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:26 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/acura): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:27 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/alfa-romeo): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:28 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/audi): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:29 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/baw): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:29 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/beifang-benchi): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:30 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/bentley): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:31 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/bmw): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:32 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/buick): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:32 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/cadillac): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:33 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/chery): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:34 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/chevrolet): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:35 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/citroen): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:36 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/dacia): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:36 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/daewoo): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:37 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/daf): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:38 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/daihatsu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:39 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/deerways): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:39 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/dodge): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:40 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/fiat): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:41 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/ford): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:42 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/hino): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:42 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/honda): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:43 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/hyundai): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:44 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/infiniti): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:45 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/isuzu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:46 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/iveco): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:46 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/jaguar): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:47 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/jeep): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:48 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/kia): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:49 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/lada): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:49 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/land-rover): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:50 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/lexus): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:51 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/mazda): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:52 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/mercedes-benz): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:52 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/mercury): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:53 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/mini): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:54 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/mitsubishi): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:55 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:56 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/opel): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:56 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/peugeot): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:57 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/porsche): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:58 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/renault): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:59 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/rover): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:48:59 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/saab): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:00 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/skoda): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:01 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/smart): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:02 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/ssangyong): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:02 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/subaru): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:03 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/suzuki): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:04 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/toyota): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:05 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/volkswagen): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:05 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/volvo): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:06 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/gaz): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:07 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/tagaz): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[19-Apr-2021 14:49:08 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/uaz): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in C:\Server\article\choice_article.php on line 98
+[20-Apr-2021 12:49:21 Asia/Vladivostok] PHP Warning:  file_put_contents(C:\Server\article/src/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 57
+[20-Apr-2021 13:56:10 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/march/908/planka): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 61
+[20-Apr-2021 13:56:12 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/march/908/planka-fary): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[20-Apr-2021 13:56:12 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:12 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:13 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/march/908/plastik-prochee): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[20-Apr-2021 13:56:13 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:13 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:15 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/march/908/kronshteyn-podnozhki): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[20-Apr-2021 13:56:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:15 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:16 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/march/908/podnozhka): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[20-Apr-2021 13:56:16 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:16 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:18 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/march/908/nakladka-poroga): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[20-Apr-2021 13:56:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:18 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:19 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/march/908/porog): failed to open stream: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in C:\Server\article\choice_article.php on line 161
+[20-Apr-2021 13:56:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[20-Apr-2021 13:56:19 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 162
+[21-Apr-2021 12:45:44 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow/catalog/nissan/micra-cc/913/vtulka-rulevoy-reyki): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in C:\Server\article\choice_article.php on line 61
+[22-Apr-2021 10:07:30 Asia/Vladivostok] PHP Warning:  file_put_contents(C:\Server\article/src/session.json): failed to open stream: Permission denied in C:\Server\article\choice_article.php on line 57
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/otti): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/pao): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/pathfinder): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/patrol): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/pino): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/pixo): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/prairie): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/prairie-joy): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/presage): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/presea): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/president): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/primastar): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/primera): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/primera-camino): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/pulsar): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/qashqai): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/qashqai2): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/quest): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/rnessa): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/rasheen): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/rogue): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/roox): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/s-cargo): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/safari): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/sentra): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/serena): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/silvia): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/skyline): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/skyline-crossover): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/skyline-gt-r): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/stagea): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/stanza): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/sunny): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/sunny-california): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/sunny-rz-1): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/sylphy): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/teana): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/terrano): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/terrano-ii): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/terrano-regulus): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/tiida): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/tiida-latio): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/tino): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/titan): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/urvan): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/vanette): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/vanette-serena): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/vanette-truck): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/versa): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/wingroad): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/x-trail): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/xterra): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 87
+[22-Apr-2021 15:52:51 Asia/Vladivostok] PHP Warning:  file_get_contents(https://autotrade.su/moscow): failed to open stream: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен.  in C:\Server\article\choice_article.php on line 87
+[22-Apr-2021 16:01:20 Asia/Vladivostok] PHP Warning:  get_headers(): SSL: Удаленный хост принудительно разорвал существующее подключение.
+ in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 16:01:20 Asia/Vladivostok] PHP Notice:  get_headers(): send of 109 bytes failed with errno=10054 Удаленный хост принудительно разорвал существующее подключение.
+ in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 16:01:20 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/otti/943/kreplenie-glushitelya): failed to open stream: HTTP request failed! in C:\Server\article\choice_article.php on line 165
+[22-Apr-2021 16:01:20 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[22-Apr-2021 16:01:20 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\choice_article.php on line 166
+[23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Warning:  get_headers(): SSL: Удаленный хост принудительно разорвал существующее подключение.
+ in C:\Server\socket\article\TestConnected.php on line 9
+[23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Notice:  get_headers(): send of 108 bytes failed with errno=10054 Удаленный хост принудительно разорвал существующее подключение.
+ in C:\Server\socket\article\TestConnected.php on line 9
+[23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/patrol/952/kreplenie-reshetki): failed to open stream: HTTP request failed! in C:\Server\socket\article\TestConnected.php on line 9
+[23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\socket\article\TestConnected.php on line 10
+[23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\socket\article\TestConnected.php on line 10

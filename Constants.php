@@ -2,7 +2,6 @@
 /**
  * 
  */
-
 class Constants
 {
 	const LINK_URL_FIND  = 'https://autotrade.su/moscow/find/';
@@ -10,8 +9,11 @@ class Constants
 	const ARTICLE 		 = './src/article.json';
 	const RECORDERED_ART = './src/recorded_article.json';
 
-	const CONNECT_DB	 = 'sqlite:TestDB.sqlite';
+	const CONNECT_DB	 = 'sqlite:ParserDB.sqlite';
 	const PDO_LOGS		 = './logs/PDOErrors.log';
+	const ERR_LOGS		 = './logs/main_error.log';
+	const LOGS_EXCEPTION = './logs/exception.log';
+	const LOGS_PING		 = './logs/ping_error.log';
 
 	const PATT_AUTOPART  = '#/moscow/autopart/([a-z0-9-]+?)/([a-z0-9-]+?)">#su';
 	const LINK_AUTOPART  = 'https://autotrade.su/moscow/autopart/';
@@ -25,4 +27,11 @@ class Constants
 	const PATT_TD 		 = '#<td[^>]*>(.+?)</td>#su';
 	const PATT_SRC 		 = '#<img src="https://static.autotrade.su/nomenclature/wm/(.+?)"#is';
 	const FIND_IMG 		 = 'https://static.autotrade.su/nomenclature/wm/';
+
+	const PATH_SESSION   = './src/session.json';
+	const LINK_URL_PARS  = 'https://autotrade.su/moscow/catalog/';
+	const LINK_TOWN		 = 'https://autotrade.su/moscow';
+	const LINK_HOST		 = 'https://autotrade.su';
+	const PATT_MARKA 	 = '#/moscow/catalog/(.+?)">#su';
+	const DOMAIN 		 = 'autotrade.su';
 }

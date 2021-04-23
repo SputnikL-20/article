@@ -2,10 +2,10 @@
 
 	ini_set('max_execution_time', 0);
 
-	require 'Constants.php';
-	require 'ReaderDir.php';
-	require 'ParserDatas.php';
-	require 'ExportDataSqlite.php';
+	require_once 'Constants.php';
+	require_once 'ReaderDir.php';
+	require_once 'ParserDatas.php';
+	require_once 'ExportDataSqlite.php';
 
 	$start = microtime(true);
 	echo " Parser to by started...".PHP_EOL;
