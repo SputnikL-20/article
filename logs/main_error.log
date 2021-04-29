@@ -1268,3 +1268,7 @@
 [23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/patrol/952/kreplenie-reshetki): failed to open stream: HTTP request failed! in C:\Server\socket\article\TestConnected.php on line 9
 [23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\socket\article\TestConnected.php on line 10
 [23-Apr-2021 13:12:00 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\socket\article\TestConnected.php on line 10
+[29-Apr-2021 11:59:01 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/nissan/skyline/801/kryshka-dvigatelya): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\TestConnected.php on line 9
+[29-Apr-2021 11:59:01 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\TestConnected.php on line 10
+[29-Apr-2021 11:59:01 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\TestConnected.php on line 10
