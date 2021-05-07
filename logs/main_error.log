@@ -1272,3 +1272,16 @@
  in C:\Server\article\TestConnected.php on line 9
 [29-Apr-2021 11:59:01 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\TestConnected.php on line 10
 [29-Apr-2021 11:59:01 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\TestConnected.php on line 10
+[05-May-2021 11:47:01 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[05-May-2021 12:26:15 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[05-May-2021 14:47:58 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[05-May-2021 15:52:07 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[05-May-2021 16:18:18 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[06-May-2021 15:58:34 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[07-May-2021 08:03:24 Asia/Vladivostok] PHP Warning:  get_headers(https://autotrade.su/moscow/catalog/honda/accord/1427/karbyurator): failed to open stream: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+ in C:\Server\article\TestConnected.php on line 9
+[07-May-2021 08:03:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\TestConnected.php on line 10
+[07-May-2021 08:03:24 Asia/Vladivostok] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Server\article\TestConnected.php on line 10
+[07-May-2021 13:13:32 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[07-May-2021 13:49:02 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
+[07-May-2021 13:58:00 Asia/Vladivostok] PHP Warning:  file_put_contents(./src/session.json): failed to open stream: Permission denied in C:\Server\article\ChoiceArticle.php on line 37
